@@ -148,7 +148,7 @@ But all leaders are readers." ❤️👑
   <a href="https://abisec.xyz" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-%233F6F7D.svg?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" />
   </a>
-  <a href="https://t.me/@abis3c" target="_blank" rel="noreferrer">
+  <a href="https://t.me/abis3c" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
