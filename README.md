@@ -43,6 +43,7 @@
 ### :hammer_and_wrench: Skills and Tools
 
 <p align="center" style="background-color:#1f1f1f; padding: 20px; border-radius: 10px; border: 2px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+  <!-- Logos -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
@@ -107,9 +108,39 @@
     <img src="https://www.splunk.com/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg" alt="splunk" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.jenkins.io/images/logos/jenkins/Jenkins-stop-the-war.svg" alt="jenkins" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
+    <img src="https://www.jenkins.io/images/fire-jenkins.svg" alt="jenkins" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-actions" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
+  </a>
+
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
+
+  <p align="center">
+    Here is a brief summary of the skills and tools listed above:
+    <ul>
+      <li><strong>Languages:</strong> Python, JavaScript, Bash, Rust</li>
+      <li><strong>Web Frameworks:</strong> Flask, Django</li>
+      <li><strong>Containerization:</strong> Docker, Podman</li>
+      <li><strong>Orchestration:</strong> Kubernetes</li>
+      <li><strong>Web Servers:</strong> Nginx</li>
+      <li><strong>Configuration Management:</strong> Ansible</li>
+      <li><strong>Monitoring & Visualization:</strong> Grafana, Prometheus</li>
+      <li><strong>Cloud Platforms:</strong> AWS, Azure, Google Cloud</li>
+      <li><strong>Deployment:</strong> Netlify, Vercel</li>
+      <li><strong>Security:</strong> Nmap, Burp Suite</li>
+      <li><strong>Log Analysis:</strong> Splunk</li>
+      <li><strong>CI/CD:</strong> Jenkins, GitHub Actions</li>
+      <li><strong>Operating Systems:</strong> Linux</li>
+    </ul>
+  </p>
+
+</details>
+
+
 
 
 ### **My Motivational Quote** ✍️
@@ -152,3 +183,4 @@ But all leaders are readers." ❤️👑
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
+
