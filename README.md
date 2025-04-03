@@ -20,6 +20,8 @@
   </em>
 </p>
 
+<a href="https://app.daily.dev/abisec"><img src="https://api.daily.dev/devcards/v2/cauHLdFPNdw4p2EmwlRUh.png?r=9jj&type=default" width="356" alt="Abishek Kafle's Dev Card"/></a>
+
 ### 👨‍💻 About Me
 
 🔧💻 I am **a DevOps Engineer** with a strong background in cybersecurity and a focus on DevSecOps practices.
