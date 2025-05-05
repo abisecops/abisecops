@@ -24,19 +24,19 @@
 
 ### 👨‍💻 About Me
 
-🔧💻 I am **a DevOps Engineer** with a strong background in cybersecurity and a focus on DevSecOps practices.
+🔧💻 I am **a DevOps Engineer** with a strong background in **cybersecurity** and a focus on **DevSecOps** practices.
 
-🚀🛡️ Experienced in **CI/CD, automation, and cloud infrastructure management**.
+🚀🛡️ Experienced in **CI/CD**, **automation**, and **cloud infrastructure management**. 
 
 🔒🤖 Proven ability to integrate security into development processes, optimize workflows, and enhance system reliability.
 
-💻🚀 Engaged in coding, deployment, and ensuring seamless operations.
+💻🚀 Engaged in **coding**, **deployment**, and ensuring seamless operations. 
 
-🕵️‍♂️🔨 Passionate about security testing, tool development, and innovative tech projects.
+🕵️‍♂️🔨 Passionate about **security testing**, **tool development**, and innovative tech projects. 
 
 🎮🌐 My free time is dedicated to exploring the realms of **infosec** and **infotech**.
 
-✍️📚 I express my passion for technology through **poetry**, writing about cybersecurity and tech.
+✍️📚 I express my passion for technology through **poetry**, writing about **cybersecurity** and **tech**. 
 
 🌟 Constantly striving to **dream, dare, and do**. Let's collaborate and create impactful tech solutions!
 
