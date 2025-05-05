@@ -49,14 +49,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
@@ -67,8 +61,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
-  <a href="https://www.podman.io/" target="_blank" rel="noreferrer">
-    <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" alt="podman" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
@@ -87,19 +79,7 @@
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://netlify.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
+
   <a href="https://nmap.org" target="_blank" rel="noreferrer">
     <img src="https://nmap.org/images/nmap-project-logo.png" alt="nmap" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
@@ -112,35 +92,29 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.jenkins.io/images/fire-jenkins.svg" alt="jenkins" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-actions" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
 
 </p>
 
 <details>
-  <summary>Click to expand!</summary>
-
-  <p align="center">
-    Here is a brief summary of the skills and tools listed above:
-    <ul>
-      <li><strong>Languages:</strong> Python, JavaScript, Bash, Rust</li>
-      <li><strong>Web Frameworks:</strong> Flask, Django</li>
-      <li><strong>Containerization:</strong> Docker, Podman</li>
-      <li><strong>Orchestration:</strong> Kubernetes</li>
-      <li><strong>Web Servers:</strong> Nginx</li>
-      <li><strong>Configuration Management:</strong> Ansible</li>
-      <li><strong>Monitoring & Visualization:</strong> Grafana, Prometheus</li>
-      <li><strong>Cloud Platforms:</strong> AWS, Azure, Google Cloud</li>
-      <li><strong>Deployment:</strong> Netlify, Vercel</li>
-      <li><strong>Security:</strong> Nmap, Burp Suite</li>
-      <li><strong>Log Analysis:</strong> Splunk</li>
-      <li><strong>CI/CD:</strong> Jenkins, GitHub Actions</li>
-      <li><strong>Operating Systems:</strong> Linux</li>
-    </ul>
-  </p>
-
+  <summary><strong>Technical Skills Summary</strong></summary>
+  <ul>
+    <li><strong>Programming Languages:</strong> Python, Go (Golang), Lua</li>
+    <li><strong>Web Frameworks:</strong> Flask, Django</li>
+    <li><strong>Containerization:</strong> Docker, Buildpack</li>
+    <li><strong>Orchestration:</strong> Kubernetes</li>
+    <li><strong>Web Servers & Proxies:</strong> Nginx, Traefik</li>
+    <li><strong>Configuration Management:</strong> Ansible</li>
+    <li><strong>Monitoring & Visualization:</strong> Prometheus, Grafana</li>
+    <li><strong>Cloud Platforms:</strong> Amazon Web Services (AWS)</li>
+    <li><strong>Deployment & GitOps:</strong> ArgoCD</li>
+    <li><strong>Security & Penetration Testing Tools:</strong> Nmap, Burp Suite</li>
+    <li><strong>Log Management & Analysis:</strong> Splunk</li>
+    <li><strong>CI/CD Tools:</strong> Jenkins, GitLab CI</li>
+    <li><strong>Operating Systems:</strong> Linux</li>
+  </ul>
 </details>
+
+
 
 
 
