@@ -43,54 +43,61 @@
 🛡️ Explore my <a href="https://github.com/abisecops?tab=repositories">repositories</a> and feel free to ⭐️ if you find my work valuable.
 
 ### :hammer_and_wrench: Skills and Tools
-
 <p align="center" style="background-color:#1f1f1f; padding: 20px; border-radius: 10px; border: 2px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-  <!-- Logos -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
 
-  <a href="https://nmap.org" target="_blank" rel="noreferrer">
-    <img src="https://nmap.org/images/nmap-project-logo.png" alt="nmap" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
+  <!-- GitHub (Version Control) with increased brightness -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px; filter: brightness(1.3);" />
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
+
+  <!-- GitLab (CI/CD) with increased brightness -->
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px; filter: brightness(1.3);" />
   </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.splunk.com/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg" alt="splunk" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
-  </a>
+
+  <!-- Jenkins (CI/CD) -->
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.jenkins.io/images/fire-jenkins.svg" alt="jenkins" width="60" height="60" style="margin: 10px; border-radius: 10px; background-color: #ffffff; padding: 10px;" />
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- Docker (Containerization) -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- Kubernetes (Orchestration) -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- AWS (Infrastructure as Code) -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- Terraform (Infrastructure as Code) -->
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- ArgoCD (Deployment) -->
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argocd" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- Nginx (Reverse Proxy) -->
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- Prometheus (Monitoring) -->
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- Grafana (Monitoring) -->
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="60" height="60" style="margin: 10px; background-color: #fff; padding: 10px; border-radius: 10px;" />
   </a>
 
 </p>
